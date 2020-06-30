@@ -1,0 +1,237 @@
+*{
+    font-family: cursive
+}
+
+.main{
+    width: 100%;
+    height: 100px;
+}
+.header-img{
+    height: 105px;
+}
+
+.left{
+    float: left;
+    list-style-type: none;
+    width: 60%;
+}
+.header_ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+  
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+  
+.header_li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 10px;
+}
+  
+.header_li a:hover:not(.active) {
+    background-color: #ddd;
+}
+  
+.header_li a.active {
+    color: #4CAF50;
+}
+
+.picin{
+    height: 100px;
+    width: 40%;
+    float: left;
+}
+.pic{
+    margin: auto;
+    width: 80%;
+}
+
+.search_container{
+    height: 50px;  
+}
+
+.alpha{
+    width:40%;
+    text-align:center;
+    float: left;
+    margin-top: 20px;
+}
+
+.ofalp{
+    width: 50%;
+    float: left;
+    height:50px;
+    
+}
+
+.nav_container{
+    height: 50px;
+}
+
+.input_search{
+    margin-left: -25px;
+    margin-bottom: -3px;
+}
+
+input[type=text]{
+    border-radius:5px;
+}
+
+.second{
+    width: 100%;
+    height: 100px;
+    background-color: gray;
+}
+
+.cen{
+    height:100px;
+    width:60%;
+    font-size: 20px;
+    float:left;
+}
+.icon{
+    height:100px;
+    width:15%;
+    float:left;
+}
+
+.secon-mid{
+    height: 100px;
+    width: 70%;
+    margin: auto;
+}
+.side{
+    height:100px;
+    width:25%;
+    float: left;
+}
+
+.third{
+    background-image: url("images/hbg1.png");
+    width:100%;
+    height: 500px;
+    background-position: center;
+}
+.four{
+    width: 100%;
+    height:600px;
+}
+.fleft{
+    width: 60%;
+    height:600px;
+    float: left;
+    
+}
+.finer{
+    text-align:left;
+    width:75%;
+    height:600px;
+    float:right;
+    
+}
+.fright{ 
+    float:left; 
+    margin-top:125px;
+}
+.five{
+    background-image: url("images/hbg4.png");
+    width:100%;
+    height: 500px;
+    background-position: center;
+    margin-top:10px;
+}
+.six{
+    background-image: url("images/blog_post_iamge_1.jpg");
+    background-size: cover;
+    width:100%;
+    height: 685px;
+    margin-top:55px; 
+}
+.stop{
+    text-align: center;
+    width:100%;
+    height:105px;
+    font-size: 20px;
+}
+.sleft{
+    background-color:white;
+    height: 470px;
+    width:48%;
+    text-align:center;
+}
+.sin{
+    height:470px;
+    width:65%;
+    margin:auto;
+    margin-top: 35px;
+}
+.eight{
+     height: 700px;
+     width: 100%;
+}
+.ecen{
+    text-align: center;
+    font-size:50px;
+    padding-top: 50px;
+}
+.emid{
+    height:500px;
+    width: 75%;
+    margin:auto;
+    margin-top: 50px;
+    
+}
+.emid1{
+    height: 450px;
+    width:33%;
+    float:left;
+   
+}
+.emid2{
+     height: 450px;
+     width:33%;
+     float:left;
+    
+}
+.emid3{
+    height: 450px;
+    width:34%;
+    float:left;
+    
+}
+.nine{
+    height: 600px;
+    width:100%;
+    background-color: #353232;
+}
+.n_inner{
+    height: 500px;
+    width: 80%;
+    margin: auto;
+}
+.n_top{
+    height: 200px;
+    width:50%;
+    float:left;
+    margin-top: 25px;
+}
+.n_rig{
+    height: 200px;
+    width:50%;
+    float:left;
+    margin-top: 25px;
+
+}
+
+
