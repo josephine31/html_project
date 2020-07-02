@@ -233,5 +233,53 @@ input[type=text]{
     margin-top: 25px;
 
 }
+.n_mid{
+    height:300px;
+    width: 100%;
+    float: left;
+    padding: 65px;
+}
+.mid1{
+    height: 300px;
+    width: 33%;
+    float:left;
+    color: white;
+}
+.mid2{
+    height: 300px;
+    width: 33%;
+    float:left;
+    color: white;
+}
+.mid3{
+    height: 300px;
+    width: 34%;
+    float:left;
+    color: white;
+
+}
+.n_end{
+    height:70px;
+    width: 100%;
+    background-color: black;
+    float: left;
+    margin-top: -55px;
+}
+.inside{
+    height:50px;
+    width: 70%;
+    margin: auto;
+    padding-top: 20px;
+}
+.in1{
+    height:50px;
+    width: 25%;
+    float:left;
+}
+.in2{
+    height:50px;
+    width: 45%;
+    float: left;
+}
 
 
